@@ -22,6 +22,13 @@ npm install
 npm start
 ```
 
+## 補足：.devcontainer について
+ベースイメージや拡張機能など、コンテナ化された開発環境のカスタマイズが必要な場合は .devcontainer > devcontainer.json を編集した上で以下の対応をして下さい。
+- GitHub Codespaces の場合
+    - コマンドパレットから 「Codespaces: Full Rebuild Container」 を実行
+- ローカル環境の場合
+    - コマンドパレットから 「Dev Containers: Open Folder In Container」 を実行
+
 ## 参考文献
 Create React App 「Getting Started」
 https://create-react-app.dev/docs/getting-started/
