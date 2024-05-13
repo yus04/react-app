@@ -28,6 +28,7 @@ npm start
     - コマンドパレットから 「Codespaces: Full Rebuild Container」 を実行
 - ローカル環境の場合
     - コマンドパレットから 「Dev Containers: Open Folder In Container」 を実行
+    - (Dev Containers の拡張機能のインストールが必要)
 
 ## 参考文献
 Create React App 「Getting Started」
